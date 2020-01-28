@@ -1,0 +1,2 @@
+# Thermal-Slip-Flow
+This project aims to present thermal slip flow driven by oscillatory pressure gradient in a deformable  microchannel of elliptic cross-section. The fully developed flow of Newtonian fluid is considered and Navier slip is applied on the boundary. The boundary value problem is formulated and its semi-analytical solutions of velocity and temperature fields are carried out by Ritz method. The effects of the domain deformation and slip length on velocity and temperature fields are investigated.
